@@ -16,9 +16,7 @@
       "Kotlin",
       "UE4 Blueprints"
     ],
-    "learning": [
-      "Flutter / Dart"
-    ],
+    "learning": "Flutter / Dart",
     "askMeAbout": [
       "Android",
       "Unreal Engine 4",
