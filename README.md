@@ -5,7 +5,10 @@
 {
   "aboutME": {
     "name": "Keith Baker",
-    "pronouns": "He | Him",
+    "pronouns": [
+      "He",
+      "Him"
+    ],
     "code": [
       "Python",
       "Java",
