@@ -1,5 +1,35 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+```json
+{
+  "aboutME": {
+    "name": "Keith Baker",
+    "pronouns": "He | Him",
+    "code": [
+      "Python",
+      "Java",
+      "Kotlin"
+    ],
+    "askMeAbout": [
+      "Android",
+      "Unreal Engine 4",
+      "Python",
+      "Retro Gaming",
+      "Games Consoles"
+    ]
+  },
+  "speedDate": {
+    "car": "Peugeot 3008",
+    "favColor": "green",
+    "siblings": "three",
+    "hate": "writing documentation",
+    "love": "learning"
+  }
+}
+```
+
+
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
