@@ -3,7 +3,7 @@
 
 ```json
 {
-  "aboutME": {
+  "aboutMe": {
     "name": "Keith Baker",
     "pronouns": [
       "He",
