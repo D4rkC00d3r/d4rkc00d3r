@@ -14,21 +14,19 @@
       "Python",
       "Java",
       "Kotlin",
-      "UE4 Blueprints"
+      "UE Blueprints"
     ],
     "learning": "Flutter / Dart",
     "askMeAbout": [
       "Android",
-      "Unreal Engine 4",
+      "Unreal Engine",
       "Python",
       "Retro Gaming",
       "Games Consoles"
     ]
   },
   "speedDate": {
-    "car": "Peugeot 3008",
     "favColor": "green",
-    "siblings": "three",
     "hate": "writing documentation",
     "love": "learning"
   }
