@@ -26,9 +26,9 @@
     ]
   },
   "speedDate": {
-    "favColor": "green",
-    "hate": "writing documentation",
-    "love": "learning"
+    "favColor": "Green",
+    "hate": "Writing Documentation",
+    "love": "Learning"
   }
 }
 ```
