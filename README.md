@@ -7,8 +7,7 @@
     "name": "Keith Baker",
     "pronouns": [
       "He",
-      "Him",
-      "Keeef"
+      "Him"
     ],
     "code": [
       "Python",
