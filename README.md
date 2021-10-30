@@ -24,11 +24,6 @@
       "Retro Gaming",
       "Games Consoles"
     ]
-  },
-  "speedDate": {
-    "favColor": "Green",
-    "hate": "Writing Documentation",
-    "love": "Learning"
   }
 }
 ```
