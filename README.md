@@ -4,11 +4,7 @@
 ```json
 {
   "aboutMe": {
-    "name": "Keith Baker",
-    "pronouns": [
-      "He",
-      "Him"
-    ],
+    "name": "Keith Baker"
     "code": [
       "Python",
       "Java",
