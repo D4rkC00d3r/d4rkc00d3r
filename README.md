@@ -3,7 +3,8 @@
 ```json
 {
   "aboutMe": {
-    "name": "Keith Baker"
+    "name": "Keith Baker",
+    "favoriteQuote": "“Sometimes it is the people no one can imagine anything of who do the things no one can imagine. - Alan Turing”"
     "code": [
       "Python",
       "Java",
