@@ -56,9 +56,6 @@ Professionally I specialise in building robust bespoke Android applications and 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -106,7 +103,7 @@ Professionally I specialise in building robust bespoke Android applications and 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjbaker-uk&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjbaker-uk&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
