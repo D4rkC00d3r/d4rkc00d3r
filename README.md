@@ -89,7 +89,7 @@ Professionally I specialise in building robust bespoke Android applications and 
 
 </td><td valign="top" width="50%">
 
-![](https://i.ibb.co/8x299cb/logo.png)  
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11175814345&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)  
 
 
 </td></tr></table>  
@@ -108,14 +108,4 @@ Professionally I specialise in building robust bespoke Android applications and 
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-
-
-### My Jam  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11175814345&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)
-<br />
+<br/>
