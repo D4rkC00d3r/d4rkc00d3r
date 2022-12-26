@@ -21,7 +21,7 @@
 
 
 ### Welcome, glad you are here!  
-My name is Keith Baker and I am a tinker, maker, programmer, gamer and console collector. I have never been listed on Forbes 50 under 50. 😣 I absolutely love coding and open-source! and I hope that my projects help others in some way. In my spare time I like to make video games in Unreal Engine and currently learning Lua to make a game for the Panic Play Date handheld.
+I am a tinker, maker, programmer, gamer and console collector who absolutely loves coding and open-source! and I hope that my projects help others in some way. In my spare time I like to make video games in Unreal Engine and currently learning Lua to make a game for the Panic Play Date handheld.
 
 Professionally I specialise in building robust bespoke Android applications and I love designing systems that are light yet powerful, distributed yet synchronised and efficient. I also dabble in app reverse engineering and mobile forensics, essentially anything mobile.  
   
@@ -35,30 +35,6 @@ Professionally I specialise in building robust bespoke Android applications and 
                     align="left"
                 />
             </a></div>  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Meshtastic Android](https://github.com/meshtastic/Meshtastic-Android/tree/master/app)  
-  
-
-- 🎓 I’m currently learning Lua to make a game for the Panic [Playdate](https://play.date/)  
-  
-
-- ❓ Ask me about anything related to Android development, mobile forensics and reverse engineering  
-  
-
-- 💭 Favorite quote: "Sometimes it is the people no one can imagine anything of who do the things no one can imagine"  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -92,6 +68,31 @@ Professionally I specialise in building robust bespoke Android applications and 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
 </div>  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [Meshtastic Android](https://github.com/meshtastic/Meshtastic-Android/tree/master/app)  
+  
+
+- 🎓 I’m currently learning Lua to make a game for the Panic [Playdate](https://play.date/)  
+  
+
+- ❓ Ask me about anything related to Android development, mobile forensics and reverse engineering  
+  
+
+- 💭 Favorite quote: "Sometimes it is the people no one can imagine anything of who do the things no one can imagine"  
+
+
+</td><td valign="top" width="50%">
+
+![](https://i.ibb.co/8x299cb/logo.png)  
+
+
+</td></tr></table>  
 
 <br/>  
 
