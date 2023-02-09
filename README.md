@@ -28,17 +28,6 @@ Professionally I specialise in building robust bespoke Android applications and 
 
 <br/>  
 
-<div align="left">
-            <a href="https://www.buymeacoffee.com/kjbaker" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
